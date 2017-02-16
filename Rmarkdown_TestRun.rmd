@@ -2,7 +2,7 @@
 title: "Rmarkdown_TestRun"
 author: "Naadir-Ganief"
 date: "16 February 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
